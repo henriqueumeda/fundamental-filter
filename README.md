@@ -8,6 +8,17 @@
 ## Description
 A finance data fundamental analysis to filter which stocks and funds are studiable.
 
+---
+
+### Functions
+- Create interative plots
+  - Variable periods of time
+  - Variable axis fields
+  - Variable stocks and funds
+- Export charts
+- Group assets by departments
+- Classifications inside groups of departments
+
 
 ## Pre-requisites
 >soon
