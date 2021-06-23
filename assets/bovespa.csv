@@ -1,0 +1,424 @@
+Ticker;Name;Country;Type;Sector;Sub Sector;Segment
+PETR3;Petrobras;Brazil;Ação;Petróleo gás e biocombustíveis;Petróleo gás e biocombustíveis;Exploração refino e distribuição
+PETR4;Petrobras;Brazil;Ação;Petróleo gás e biocombustíveis;Petróleo gás e biocombustíveis;Exploração refino e distribuição
+ABEV3;Ambev S/A;Brazil;Ação;Consumo não cíclico;Bebidas;Cervejas e refrigerantes
+ITUB3;ItauUnibanco;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+ITUB4;ItauUnibanco;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+BBDC3;Bradesco;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+BBDC4;Bradesco;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+BPAC3;Btgp Banco;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+BPAC5;Btgp Banco;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+BPAC11;Btgp Banco;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+SANB3;Santander BR;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+SANB4;Santander BR;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+SANB11;Santander BR;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+RDOR3;Rede D Or;Brazil;Ação;Saúde;Serviços médico-hospitalares análises e diagnósticos;Serviços médico-hospitalares análises e diagnósticos
+MGLU3;Magaz Luiza;Brazil;Ação;Consumo cíclico;Comércio;Eletrodomésticos
+B3SA3;B3;Brazil;Ação;Financeiro;Serviços financeiros diversos;Serviços financeiros diversos
+ITSA3;Itausa;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+ITSA4;Itausa;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+BBAS3;Brasil;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+SUZB3;Suzano S.A.;Brazil;Ação;Materiais básicos;Madeira e papel;Papel e celulose
+JBSS3;JBS;Brazil;Ação;Consumo não cíclico;Alimentos processados;Carnes e derivados
+NTCO3;Grupo Natura;Brazil;Ação;Consumo não cíclico;Produtos de uso pessoal e de limpeza;Produtos de uso pessoal
+ELET3;Eletrobras;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+ELET6;Eletrobras;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+CSNA3;Sid Nacional;Brazil;Ação;Materiais básicos;Siderurgia e metalurgia;Siderurgia
+HAPV3;Hapvida;Brazil;Ação;Saúde;Serviços médico-hospitalares análises e diagnósticos;Serviços médico-hospitalares análises e diagnósticos
+GGBR3;Gerdau;Brazil;Ação;Materiais básicos;Siderurgia e metalurgia;Siderurgia
+GGBR4;Gerdau;Brazil;Ação;Materiais básicos;Siderurgia e metalurgia;Siderurgia
+GNDI3;Intermedica;Brazil;Ação;Saúde;Serviços médico-hospitalares análises e diagnósticos;Serviços médico-hospitalares análises e diagnósticos
+CMIN3;Csn Mineraca;Brazil;Ação;Materiais básicos;Mineração;Minerais metálicos
+BIDI3;Banco Inter;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+BIDI4;Banco Inter;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+BIDI11;Banco Inter;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+RENT3;Localiza;Brazil;Ação;Consumo cíclico;Diversos;Aluguel de carros
+BBSE3;BBSeguridade;Brazil;Ação;Financeiro;Previdência e seguros;Seguradoras
+RADL3;RaiaDrogasil;Brazil;Ação;Saúde;Comércio e distribuição;Medicamentos e outros produtos
+CSAN3;Cosan;Brazil;Ação;Petróleo gás e biocombustíveis;Petróleo gás e biocombustíveis;Exploração refino e distribuição
+CRFB3;Carrefour BR;Brazil;Ação;Consumo não cíclico;Comércio e distribuição;Alimentos
+LREN3;Lojas Renner;Brazil;Ação;Consumo cíclico;Comércio;Tecidos vestuário e calçados
+BRKM3;Braskem;Brazil;Ação;Materiais básicos;Químicos;Petroquímicos
+BRKM5;Braskem;Brazil;Ação;Materiais básicos;Químicos;Petroquímicos
+RAIL3;Rumo S.A.;Brazil;Ação;Bens industriais;Transporte;Transporte ferroviário
+LAME3;Lojas Americ;Brazil;Ação;Consumo cíclico;Comércio;Produtos diversos
+LAME4;Lojas Americ;Brazil;Ação;Consumo cíclico;Comércio;Produtos diversos
+CXSE3;Caixa Seguri;Brazil;Ação;Financeiro;Previdência e seguros;Seguradoras
+BTOW3;B2W Digital;Brazil;Ação;Consumo cíclico;Comércio;Produtos diversos
+CPFE3;CPFL Energia;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+EGIE3;Engie Brasil;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+DASA3;Dasa;Brazil;Ação;Saúde;Serviços médico-hospitalares análises e diagnósticos;Serviços médico-hospitalares análises e diagnósticos
+BRDT3;Petrobras BR;Brazil;Ação;Petróleo gás e biocombustíveis;Petróleo gás e biocombustíveis;Exploração refino e distribuição
+KLBN3;Klabin S/A;Brazil;Ação;Materiais básicos;Madeira e papel;Papel e celulose
+KLBN4;Klabin S/A;Brazil;Ação;Materiais básicos;Madeira e papel;Papel e celulose
+KLBN11;Klabin S/A;Brazil;Ação;Materiais básicos;Madeira e papel;Papel e celulose
+CCRO3;CCR SA;Brazil;Ação;Bens industriais;Transporte;Exploração de rodovias
+BPAN4;Banco Pan;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+SBSP3;Sabesp;Brazil;Ação;Utilidade pública;Água e saneamento;Água e saneamento
+ALPA3;Alpargatas;Brazil;Ação;Consumo cíclico;Tecidos vestuário e calçados;Calçados
+ALPA4;Alpargatas;Brazil;Ação;Consumo cíclico;Tecidos vestuário e calçados;Calçados
+CMIG3;Cemig;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+CMIG4;Cemig;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+EQTL3;Equatorial;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+ASAI3;Assai;Brazil;Ação;Consumo não cíclico;Comércio e distribuição;Alimentos
+BRAP3;Bradespar;Brazil;Ação;Materiais básicos;Mineração;Minerais metálicos
+BRAP4;Bradespar;Brazil;Ação;Materiais básicos;Mineração;Minerais metálicos
+HYPE3;Hypera;Brazil;Ação;Saúde;Comércio e distribuição;Medicamentos e outros produtos
+ENEV3;Eneva;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+BRFS3;BRF SA;Brazil;Ação;Consumo não cíclico;Alimentos processados;Carnes e derivados
+NEOE3;Neoenergia;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+ENGI3;Energisa;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+ENGI4;Energisa;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+ENGI11;Energisa;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+CGAS5;Comgas;Brazil;Ação;Utilidade pública;Gás;Gás
+GMAT3;Grupo Mateus;Brazil;Ação;Consumo não cíclico;Comércio e distribuição;Alimentos
+PSSA3;Porto Seguro;Brazil;Ação;Financeiro;Previdência e seguros;Seguradoras
+CPLE3;Copel;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+CPLE6;Copel;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+CPLE11;Copel;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+PRIO3;Petrorio;Brazil;Ação;Petróleo gás e biocombustíveis;Petróleo gás e biocombustíveis;Exploração refino e distribuição
+REDE3;Rede Energia;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+GOAU3;Gerdau Met;Brazil;Ação;Materiais básicos;Siderurgia e metalurgia;Siderurgia
+GOAU4;Gerdau Met;Brazil;Ação;Materiais básicos;Siderurgia e metalurgia;Siderurgia
+MULT3;Multiplan;Brazil;Ação;Financeiro;Exploração de imóveis;Exploração de imóveis
+DTEX3;Duratex;Brazil;Ação;Materiais básicos;Madeira e papel;Madeira
+AZUL4;Azul S.A.;Brazil;Ação;Bens industriais;Transporte;Transporte aéreo
+SULA3;Sul America;Brazil;Ação;Financeiro;Previdência e seguros;Seguradoras
+SULA4;Sul America;Brazil;Ação;Financeiro;Previdência e seguros;Seguradoras
+SULA11;Sul America;Brazil;Ação;Financeiro;Previdência e seguros;Seguradoras
+LWSA3;Locaweb;Brazil;Ação;Tecnologia da informação;Programas e serviços;Programas e serviços
+LCAM3;Locamerica;Brazil;Ação;Consumo cíclico;Diversos;Aluguel de carros
+EMBR3;Embraer;Brazil;Ação;Bens industriais;Material de transporte;Material aeronáutico e de defesa
+MRFG3;Marfrig;Brazil;Ação;Consumo não cíclico;Alimentos processados;Carnes e derivados
+BSLI4;BRB Banco;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+SMTO3;Sao Martinho;Brazil;Ação;Consumo não cíclico;Alimentos processados;Açúcar e álcool
+CIEL3;Cielo;Brazil;Ação;Financeiro;Serviços financeiros diversos;Serviços financeiros diversos
+GGPS3;Gps;Brazil;Ação;Bens industriais;Serviços diversos;Serviços diversos
+ENBR3;Energias BR;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+PCAR3;P.Acucar-Cbd;Brazil;Ação;Consumo não cíclico;Comércio e distribuição;Alimentos
+SIMH3;Simpar;Brazil;Ação;Financeiro;Holdings diversificadas;Holdings diversificadas
+EQPA3;Eqtl Para;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+GUAR3;Guararapes;Brazil;Ação;Consumo cíclico;Comércio;Tecidos vestuário e calçados
+MDIA3;M.Diasbranco;Brazil;Ação;Consumo não cíclico;Alimentos processados;Alimentos diversos
+CYRE3;Cyrela Realt;Brazil;Ação;Consumo cíclico;Construção civil;Incorporações
+SLCE3;SLC Agricola;Brazil;Ação;Consumo não cíclico;Agropecuária;Agricultura
+OIBR3;Oi;Brazil;Ação;Comunicações;Telecomunicações;Telecomunicações
+OIBR4;Oi;Brazil;Ação;Comunicações;Telecomunicações;Telecomunicações
+BRML3;BR Malls Par;Brazil;Ação;Financeiro;Exploração de imóveis;Exploração de imóveis
+GOLL4;Gol;Brazil;Ação;Bens industriais;Transporte;Transporte aéreo
+GRND3;Grendene;Brazil;Ação;Consumo cíclico;Tecidos vestuário e calçados;Calçados
+INTB3;Intelbras;Brazil;Ação;Tecnologia da informação;Computadores e equipamentos;Computadores e equipamentos
+PETZ3;Petz;Brazil;Ação;Consumo cíclico;Comércio;Produtos diversos
+ARZZ3;Arezzo Co;Brazil;Ação;Consumo cíclico;Comércio;Tecidos vestuário e calçados
+MRVE3;MRV;Brazil;Ação;Consumo cíclico;Construção civil;Incorporações
+FLRY3;Fleury;Brazil;Ação;Saúde;Serviços médico-hospitalares análises e diagnósticos;Serviços médico-hospitalares análises e diagnósticos
+SBFG3;Grupo Sbf;Brazil;Ação;Consumo cíclico;Comércio;Produtos diversos
+BLAU3;Blau;Brazil;Ação;Saúde;Comércio e distribuição;Medicamentos e outros produtos
+CESP3;Cesp;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+CESP6;Cesp;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+COGN3;Cogna ON;Brazil;Ação;Consumo cíclico;Diversos;Serviços educacionais
+QUAL3;Qualicorp;Brazil;Ação;Saúde;Serviços médico-hospitalares análises e diagnósticos;Serviços médico-hospitalares análises e diagnósticos
+ALUP3;Alupar;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+ALUP4;Alupar;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+ALUP11;Alupar;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+ALSO3;Alianscsonae;Brazil;Ação;Financeiro;Exploração de imóveis;Exploração de imóveis
+OMGE3;Omega Ger;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+AERI3;Aerisenergia;Brazil;Ação;Bens industriais;Máquinas e equipamentos;Máq. e equip. industriais
+STBP3;Santos Brp;Brazil;Ação;Bens industriais;Transporte;Serviços de apoio e armazenagem
+IGTA3;Iguatemi;Brazil;Ação;Financeiro;Exploração de imóveis;Exploração de imóveis
+IRBR3;Irbbrasil Re;Brazil;Ação;Financeiro;Previdência e seguros;Seguradoras
+SOMA3;Grupo Soma;Brazil;Ação;Consumo cíclico;Comércio;Tecidos vestuário e calçados
+EZTC3;Eztec;Brazil;Ação;Consumo cíclico;Construção civil;Incorporações
+ECOR3;Ecorodovias;Brazil;Ação;Bens industriais;Transporte;Exploração de rodovias
+ODPV3;Odontoprev;Brazil;Ação;Saúde;Serviços médico-hospitalares análises e diagnósticos;Serviços médico-hospitalares análises e diagnósticos
+CSMG3;Copasa;Brazil;Ação;Utilidade pública;Água e saneamento;Água e saneamento
+LINX3;Linx;Brazil;Ação;Tecnologia da informação;Programas e serviços;Programas e serviços
+SAPR3;Sanepar;Brazil;Ação;Utilidade pública;Água e saneamento;Água e saneamento
+SAPR4;Sanepar;Brazil;Ação;Utilidade pública;Água e saneamento;Água e saneamento
+SAPR11;Sanepar;Brazil;Ação;Utilidade pública;Água e saneamento;Água e saneamento
+LIGT3;Light S/A;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+BRSR3;Banrisul;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+BRSR6;Banrisul;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+AESB3;AES Brasil;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+MOVI3;Movida;Brazil;Ação;Consumo cíclico;Diversos;Aluguel de carros
+MATD3;Mater Dei;Brazil;Ação;Saúde;Serviços médico-hospitalares análises e diagnósticos;Serviços médico-hospitalares análises e diagnósticos
+EKTR4;Elektro;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+CSED3;Cruzeiro Edu;Brazil;Ação;Consumo cíclico;Diversos;Serviços educacionais
+RRRP3;3r Petroleum;Brazil;Ação;Petróleo gás e biocombustíveis;Petróleo gás e biocombustíveis;Exploração refino e distribuição
+BOAS3;Boa Vista;Brazil;Ação;Financeiro;Serviços financeiros diversos;Serviços financeiros diversos
+JHSF3;JHSF Part;Brazil;Ação;Consumo cíclico;Construção civil;Incorporações
+BEEF3;Minerva;Brazil;Ação;Consumo não cíclico;Alimentos processados;Carnes e derivados
+PGMN3;Pague Menos;Brazil;Ação;Saúde;Comércio e distribuição;Medicamentos e outros produtos
+HGTX3;Cia Hering;Brazil;Ação;Consumo cíclico;Tecidos vestuário e calçados;Vestuário
+ANIM3;Anima;Brazil;Ação;Consumo cíclico;Diversos;Serviços educacionais
+HBSA3;Hidrovias;Brazil;Ação;Bens industriais;Transporte;Transporte hidroviário
+CVCB3;Cvc Brasil;Brazil;Ação;Consumo cíclico;Viagens e lazer;Viagens e turismo
+CASH3;Meliuz;Brazil;Ação;Tecnologia da informação;Programas e serviços;Programas e serviços
+AURA33;Aura 360;Brazil;Ação;Materiais básicos;Mineração;Minerais metálicos
+COCE5;Coelce;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+ESPA3;Espacolaser;Brazil;Ação;Consumo cíclico;Comércio;Produtos diversos
+RAPT3;Randon Part;Brazil;Ação;Bens industriais;Material de transporte;Material rodoviário
+RAPT4;Randon Part;Brazil;Ação;Bens industriais;Material de transporte;Material rodoviário
+BRPR3;BR Propert;Brazil;Ação;Financeiro;Exploração de imóveis;Exploração de imóveis
+CEAB3;Cea Modas;Brazil;Ação;Consumo cíclico;Comércio;Tecidos vestuário e calçados
+LJQQ3;Quero-Quero;Brazil;Ação;Consumo cíclico;Comércio;Produtos diversos
+MODL11;Bco Modal;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+ENAT3;Enauta Part;Brazil;Ação;Petróleo gás e biocombustíveis;Petróleo gás e biocombustíveis;Exploração refino e distribuição
+ABCB4;Abc Brasil;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+RECV3;Petroreconca;Brazil;Ação;Petróleo gás e biocombustíveis;Petróleo gás e biocombustíveis;Exploração refino e distribuição
+LEVE3;Metal Leve;Brazil;Ação;Consumo cíclico;Automóveis e motocicletas;Automóveis e motocicletas
+IFCM3;Infracomm;Brazil;Ação;Tecnologia da informação;Programas e serviços;Programas e serviços
+FESA3;Ferbasa;Brazil;Ação;Materiais básicos;Siderurgia e metalurgia;Siderurgia
+FESA4;Ferbasa;Brazil;Ação;Materiais básicos;Siderurgia e metalurgia;Siderurgia
+CAML3;Camil;Brazil;Ação;Consumo não cíclico;Alimentos processados;Alimentos diversos
+AMBP3;Ambipar;Brazil;Ação;Utilidade pública;Água e saneamento;Água e saneamento
+GEPA4;Ger Paranap;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+SEQL3;Sequoia Log;Brazil;Ação;Bens industriais;Serviços diversos;Serviços diversos
+AGRO3;Brasilagro;Brazil;Ação;Consumo não cíclico;Agropecuária;Agricultura
+EMAE4;Emae;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+LOGG3;Log Com Prop;Brazil;Ação;Financeiro;Exploração de imóveis;Exploração de imóveis
+JSLG3;JSL;Brazil;Ação;Bens industriais;Transporte;Transporte rodoviário
+PNVL3;Dimed;Brazil;Ação;Saúde;Comércio e distribuição;Medicamentos e outros produtos
+PNVL4;Dimed;Brazil;Ação;Saúde;Comércio e distribuição;Medicamentos e outros produtos
+BKBR3;Bk Brasil;Brazil;Ação;Consumo cíclico;Hotéis e restaurantes;Restaurante e similares
+BMGB4;Banco BMG;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+CEBR3;Ceb;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+CEBR5;Ceb;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+CEBR6;Ceb;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+SMLS3;Smiles;Brazil;Ação;Consumo cíclico;Diversos;Programas de fidelização
+CURY3;Cury S/A;Brazil;Ação;Consumo cíclico;Construção civil;Incorporações
+PARD3;Ihpardini;Brazil;Ação;Saúde;Serviços médico-hospitalares análises e diagnósticos;Serviços médico-hospitalares análises e diagnósticos
+ELMD3;Eletromidia;Brazil;Ação;Comunicações;Mídia;Publicidade e propaganda
+CLSC4;Celesc;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+JALL3;Jallesmachad;Brazil;Ação;Consumo não cíclico;Alimentos processados;Açúcar e álcool
+JPSA3;Jereissati;Brazil;Ação;Financeiro;Exploração de imóveis;Exploração de imóveis
+FRAS3;Fras-Le;Brazil;Ação;Bens industriais;Material de transporte;Material rodoviário
+MYPK3;Iochp-Maxion;Brazil;Ação;Consumo cíclico;Automóveis e motocicletas;Automóveis e motocicletas
+MOSI3;Mosaico SA;Brazil;Ação;Tecnologia da informação;Programas e serviços;Programas e serviços
+POMO3;Marcopolo;Brazil;Ação;Bens industriais;Material de transporte;Material rodoviário
+POMO4;Marcopolo;Brazil;Ação;Bens industriais;Material de transporte;Material rodoviário
+SCAR3;Sao Carlos;Brazil;Ação;Financeiro;Exploração de imóveis;Exploração de imóveis
+EVEN3;Even;Brazil;Ação;Consumo cíclico;Construção civil;Incorporações
+RANI3;Irani;Brazil;Ação;Materiais básicos;Madeira e papel;Papel e celulose
+ROMI3;Inds Romi;Brazil;Ação;Bens industriais;Máquinas e equipamentos;Máq. e equip. industriais
+PTBL3;Portobello;Brazil;Ação;Bens industriais;Construção e engenharia;Produtos para construção
+ENJU3;Enjoei;Brazil;Ação;Tecnologia da informação;Programas e serviços;Programas e serviços
+CRPG5;Cristal;Brazil;Ação;Materiais básicos;Químicos;Químicos diversos
+CRPG6;Cristal;Brazil;Ação;Materiais básicos;Químicos;Químicos diversos
+LOGN3;Log-In;Brazil;Ação;Bens industriais;Transporte;Transporte hidroviário
+DIRR3;Direcional;Brazil;Ação;Consumo cíclico;Construção civil;Incorporações
+BMOB3;Bemobi Tech;Brazil;Ação;Tecnologia da informação;Programas e serviços;Programas e serviços
+OFSA3;Ourofino S/A;Brazil;Ação;Saúde;Medicamentos e outros produtos;Medicamentos e outros produtos
+SEER3;Ser Educa;Brazil;Ação;Consumo cíclico;Diversos;Serviços educacionais
+MILS3;Mills;Brazil;Ação;Bens industriais;Construção e engenharia;Serviços diversos
+AMAR3;Lojas Marisa;Brazil;Ação;Consumo cíclico;Comércio;Tecidos vestuário e calçados
+CCPR3;Cyre Com-Ccp;Brazil;Ação;Financeiro;Exploração de imóveis;Exploração de imóveis
+POSI3;Positivo Tec;Brazil;Ação;Tecnologia da informação;Computadores e equipamentos;Computadores e equipamentos
+SHUL4;Schulz;Brazil;Ação;Bens industriais;Máquinas e equipamentos;Motores compressores e outros
+ORVR3;Orizon;Brazil;Ação;Utilidade pública;Água e saneamento;Água e saneamento
+SOJA3;Boa Safra;Brazil;Ação;Consumo não cíclico;Agropecuária;Agricultura
+MBLY3;Mobly;Brazil;Ação;Tecnologia da informação;Programas e serviços;Programas e serviços
+LAVV3;Lavvi;Brazil;Ação;Consumo cíclico;Construção civil;Incorporações
+DOTZ3;Dotz SA;Brazil;Ação;Consumo cíclico;Diversos;Programas de fidelização
+BEES3;Banestes;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+HBRE3;Hbr Realty;Brazil;Ação;Financeiro;Exploração de imóveis;Exploração de imóveis
+FHER3;Fer Heringer;Brazil;Ação;Materiais básicos;Químicos;Fertilizantes e defensivos
+OPCT3;Oceanpact;Brazil;Ação;Petróleo gás e biocombustíveis;Petróleo gás e biocombustíveis;Equipamentos e serviços
+ALLD3;Allied;Brazil;Ação;Consumo cíclico;Comércio;Eletrodomésticos
+ETER3;Eternit;Brazil;Ação;Bens industriais;Construção e engenharia;Produtos para construção
+SQIA3;Sinqia;Brazil;Ação;Tecnologia da informação;Programas e serviços;Programas e serviços
+DOHL4;Dohler;Brazil;Ação;Consumo cíclico;Tecidos vestuário e calçados;Fios e tecidos
+ALPK3;Estapar;Brazil;Ação;Bens industriais;Serviços diversos;Serviços diversos
+AALR3;Alliar;Brazil;Ação;Saúde;Serviços médico-hospitalares análises e diagnósticos;Serviços médico-hospitalares análises e diagnósticos
+NGRD3;Neogrid;Brazil;Ação;Tecnologia da informação;Programas e serviços;Programas e serviços
+KEPL3;Kepler Weber;Brazil;Ação;Bens industriais;Máquinas e equipamentos;Máq. e equip. industriais
+GPCP3;GPC Part;Brazil;Ação;Materiais básicos;Químicos;Petroquímicos
+GPCP4;GPC Part;Brazil;Ação;Materiais básicos;Químicos;Petroquímicos
+GFSA3;Gafisa;Brazil;Ação;Consumo cíclico;Construção civil;Incorporações
+EUCA3;Eucatex;Brazil;Ação;Materiais básicos;Madeira e papel;Madeira
+EUCA4;Eucatex;Brazil;Ação;Materiais básicos;Madeira e papel;Madeira
+PLPL3;Planoeplano;Brazil;Ação;Consumo cíclico;Construção civil;Incorporações
+MTRE3;Mitre;Brazil;Ação;Consumo cíclico;Construção civil;Incorporações
+POWE3;Focus ON;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+MELK3;Melnick;Brazil;Ação;Consumo cíclico;Construção civil;Incorporações
+BAZA3;Amazonia;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+HBOR3;Helbor;Brazil;Ação;Consumo cíclico;Construção civil;Incorporações
+MEAL3;Imc S/A;Brazil;Ação;Consumo cíclico;Hotéis e restaurantes;Restaurante e similares
+BIOM3;Biomm;Brazil;Ação;Saúde;Medicamentos e outros produtos;Medicamentos e outros produtos
+CARD3;Csu Cardsyst;Brazil;Ação;Bens industriais;Serviços diversos;Serviços diversos
+BMEB4;Merc Brasil;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+NINJ3;Getninjas;Brazil;Ação;Tecnologia da informação;Programas e serviços;Programas e serviços
+PFRM3;Profarma;Brazil;Ação;Saúde;Comércio e distribuição;Medicamentos e outros produtos
+APER3;Alper S.A.;Brazil;Ação;Financeiro;Previdência e seguros;Corretoras de seguros
+PMAM3;Paranapanema;Brazil;Ação;Materiais básicos;Siderurgia e metalurgia;Artefatos de cobre
+MDNE3;Moura Dubeux;Brazil;Ação;Consumo cíclico;Construção civil;Incorporações
+SGPS3;Springs;Brazil;Ação;Consumo cíclico;Tecidos vestuário e calçados;Fios e tecidos
+CGRA4;Grazziotin;Brazil;Ação;Consumo cíclico;Comércio;Tecidos vestuário e calçados
+PDTC3;Padtec;Brazil;Ação;Financeiro;Serviços financeiros diversos;Serviços financeiros diversos
+G2DI33;G2d Invest;Brazil;Ação;Financeiro;Serviços financeiros diversos;Gestão de recursos e investimentos
+LPSB3;Lopes Brasil;Brazil;Ação;Financeiro;Exploração de imóveis;Intermediação imobiliária
+BOBR4;Bombril;Brazil;Ação;Consumo não cíclico;Produtos de uso pessoal e de limpeza;Produtos de limpeza
+AVLL3;Alphaville;Brazil;Ação;Consumo cíclico;Construção civil;Incorporações
+GPIV33;GP Invest;Brazil;Ação;Financeiro;Serviços financeiros diversos;Gestão de recursos e investimentos
+INEP3;Inepar;Brazil;Ação;Bens industriais;Máquinas e equipamentos;Máq. e equip. industriais
+INEP4;Inepar;Brazil;Ação;Bens industriais;Máquinas e equipamentos;Máq. e equip. industriais
+DMVF3;D1000vfarma;Brazil;Ação;Saúde;Comércio e distribuição;Medicamentos e outros produtos
+RDNI3;Rni;Brazil;Ação;Consumo cíclico;Construção civil;Incorporações
+PINE4;Pine;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+MTSA4;Metisa;Brazil;Ação;Bens industriais;Máquinas e equipamentos;Máq. e equip. construção e agrícolas
+RNEW4;Renova;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+RNEW11;Renova;Brazil;Ação;Utilidade pública;Energia elétrica;Energia elétrica
+MERC4;Merc Financ;Brazil;Ação;Financeiro;Intermediários financeiros;Soc. crédito e financiamento
+PTNT3;Pettenati;Brazil;Ação;Consumo cíclico;Tecidos vestuário e calçados;Fios e tecidos
+PTNT4;Pettenati;Brazil;Ação;Consumo cíclico;Tecidos vestuário e calçados;Fios e tecidos
+PRNR3;Priner;Brazil;Ação;Bens industriais;Serviços diversos;Serviços diversos
+RPMG3;Pet Manguinh;Brazil;Ação;Petróleo gás e biocombustíveis;Petróleo gás e biocombustíveis;Exploração refino e distribuição
+BTTL3;Battistella;Brazil;Ação;Bens industriais;Comércio;Material de transporte
+CTNM3;Coteminas;Brazil;Ação;Consumo cíclico;Tecidos vestuário e calçados;Fios e tecidos
+CTNM4;Coteminas;Brazil;Ação;Consumo cíclico;Tecidos vestuário e calçados;Fios e tecidos
+RCSL3;Recrusul;Brazil;Ação;Bens industriais;Material de transporte;Material rodoviário
+RCSL4;Recrusul;Brazil;Ação;Bens industriais;Material de transporte;Material rodoviário
+LLIS3;Le Lis Blanc;Brazil;Ação;Consumo cíclico;Comércio;Tecidos vestuário e calçados
+DMMO3;Dommo;Brazil;Ação;Petróleo gás e biocombustíveis;Petróleo gás e biocombustíveis;Exploração refino e distribuição
+CTSA3;Santanense;Brazil;Ação;Consumo cíclico;Tecidos vestuário e calçados;Fios e tecidos
+CTSA4;Santanense;Brazil;Ação;Consumo cíclico;Tecidos vestuário e calçados;Fios e tecidos
+CAMB3;Cambuci;Brazil;Ação;Consumo cíclico;Tecidos vestuário e calçados;Calçados
+ATMP3;Atmasa;Brazil;Ação;Bens industriais;Serviços diversos;Serviços diversos
+EALT4;Aco Altona;Brazil;Ação;Bens industriais;Máquinas e equipamentos;Máq. e equip. industriais
+LUPA3;Lupatech;Brazil;Ação;Petróleo gás e biocombustíveis;Petróleo gás e biocombustíveis;Equipamentos e serviços
+PLAS3;Plascar Part;Brazil;Ação;Consumo cíclico;Automóveis e motocicletas;Automóveis e motocicletas
+BALM4;Baumer;Brazil;Ação;Saúde;Equipamentos;Equipamentos
+CTKA4;Karsten;Brazil;Ação;Consumo cíclico;Tecidos vestuário e calçados;Fios e tecidos
+ATOM3;Atompar;Brazil;Ação;Outros;Outros;Outros
+RSID3;Rossi Resid;Brazil;Ação;Consumo cíclico;Construção civil;Incorporações
+IGBR3;IGB S/A;Brazil;Ação;Financeiro;Exploração de imóveis;Exploração de imóveis
+RSUL4;Riosulense;Brazil;Ação;Bens industriais;Material de transporte;Material rodoviário
+AZEV3;Azevedo;Brazil;Ação;Bens industriais;Construção e engenharia;Construção pesada
+AZEV4;Azevedo;Brazil;Ação;Bens industriais;Construção e engenharia;Construção pesada
+BBRK3;BR Brokers;Brazil;Ação;Financeiro;Exploração de imóveis;Intermediação imobiliária
+MNDL3;Mundial;Brazil;Ação;Consumo cíclico;Tecidos vestuário e calçados;Acessórios
+MGEL4;Mangels Indl;Brazil;Ação;Materiais básicos;Siderurgia e metalurgia;Artefatos de ferro e aço
+BMIN3;Merc Invest;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+BMIN4;Merc Invest;Brazil;Ação;Financeiro;Intermediários financeiros;Bancos
+MNPR3;Minupar;Brazil;Ação;Consumo não cíclico;Alimentos processados;Carnes e derivados
+CEDO4;Cedro;Brazil;Ação;Consumo cíclico;Tecidos vestuário e calçados;Fios e tecidos
+GSHP3;Generalshopp;Brazil;Ação;Financeiro;Exploração de imóveis;Exploração de imóveis
+SNSY5;Sansuy;Brazil;Ação;Materiais básicos;Materiais diversos;Materiais diversos
+PDGR3;PDG Realt;Brazil;Ação;Consumo cíclico;Construção civil;Incorporações
+SLED3;Saraiva Livr;Brazil;Ação;Consumo cíclico;Comércio;Produtos diversos
+SLED4;Saraiva Livr;Brazil;Ação;Consumo cíclico;Comércio;Produtos diversos
+HAGA3;Haga S/A;Brazil;Ação;Bens industriais;Construção e engenharia;Produtos para construção
+HAGA4;Haga S/A;Brazil;Ação;Bens industriais;Construção e engenharia;Produtos para construção
+OSXB3;OSX Brasil;Brazil;Ação;Petróleo gás e biocombustíveis;Petróleo gás e biocombustíveis;Equipamentos e serviços
+JBDU3;J B Duarte;Brazil;Ação;Outros;Outros;Outros
+JBDU4;J B Duarte;Brazil;Ação;Outros;Outros;Outros
+FRTA3;Pomifrutas;Brazil;Ação;Consumo não cíclico;Agropecuária;Agricultura
+KNIP11;FII Kinea Ip;Brazil;FII;-;-;TVM
+KNCR11;FII Kinea Ri;Brazil;FII;-;-;TVM
+KNRI11;FII Kinea;Brazil;FII;-;-;Híbrido
+HGLG11;FII CSHG Log;Brazil;FII;-;-;Logística
+XPLG11;FII Xp Log;Brazil;FII;-;-;Logistica
+IRDM11;FII Iridium;Brazil;FII;-;-;TVM
+CPTS11;FII Capi Sec;Brazil;FII;-;-;TVM
+MXRF11;FII Maxi Ren;Brazil;FII;-;-;TVM
+HFOF11;FII Htopfof3;Brazil;FII;-;-;TVM
+BCFF11;FII Bc Ffii;Brazil;FII;-;-;TVM
+BRCR11;FII Bc Fund;Brazil;FII;-;-;Híbrido
+HGRU11;FII CSHG Urb;Brazil;FII;-;-;Híbrido
+HGBS11;FII Hedgebs;Brazil;FII;-;-;Shoppings
+XPML11;FII Xp Malls;Brazil;FII;-;-;Shoppings
+HCTR11;FII Hectare;Brazil;FII;-;-;#N/D
+JSRE11;FII Js Real;Brazil;FII;-;-;Híbrido
+RECR11;FII Rec Rece;Brazil;FII;-;-;TVM
+BBPO11;FII BB Prgii;Brazil;FII;-;-;Híbrido
+VILG11;FII Vincilog;Brazil;FII;-;-;#N/D
+BTLG11;FII Btlg;Brazil;FII;-;-;Logística
+BRCO11;FII Bresco;Brazil;FII;-;-;Lajes Corporativas
+VISC11;FII Vinci Sc;Brazil;FII;-;-;Híbrido
+HGRE11;FII HG Real;Brazil;FII;-;-;Lajes Corporativas
+TGAR11;FII Tg Ativo;Brazil;FII;-;-;Híbrido
+HSML11;FII Hsi Mall;Brazil;FII;-;-;#N/D
+HSLG11;FII Hsi Log;Brazil;FII;-;-;#N/D
+HGCR11;FII CSHG Cri;Brazil;FII;-;-;TVM
+GTWR11;FII G Towers;Brazil;FII;-;-;Lajes Corporativas
+RBVA11;FII Riob Va;Brazil;FII;-;-;Agências
+LVBI11;FII Vbi Log;Brazil;FII;-;-;#N/D
+RBRF11;FII Rbralpha;Brazil;FII;-;-;TVM
+KNHY11;FII Kinea Hy;Brazil;FII;-;-;#N/D
+VCJR11;FII Vectis;Brazil;FII;-;-;#N/D
+VRTA11;FII Fator Ve;Brazil;FII;-;-;TVM
+DEVA11;FII Devant;Brazil;FII;-;-;#N/D
+RBRP11;FII Rbr Prop;Brazil;FII;-;-;Não
+RBRR11;FII Rbrhgrad;Brazil;FII;-;-;TVM
+RZTR11;FII Riza Tx;Brazil;FII;-;-;#N/D
+CVBI11;FII Vbi Cri;Brazil;FII;-;-;#N/D
+GGRC11;FII Ggr Covep;Brazil;FII;-;-;Logística
+MCCI11;FII Maua;Brazil;FII;-;-;#N/D
+PVBI11;FII Vbi Pri;Brazil;FII;-;-;#N/D
+ABCP11;FII Abc Imob;Brazil;FII;-;-;Shoppings
+MGFF11;FII Mogno;Brazil;FII;-;-;TVM
+VINO11;FII Vinc Cor;Brazil;FII;-;-;Híbrido
+MALL11;FII Malls Bp;Brazil;FII;-;-;Shoppings
+BCRI11;FII Bees Cri;Brazil;FII;-;-;TVM
+XPIN11;FII Xp Indl;Brazil;FII;-;-;#N/D
+HABT11;FII Habit 2;Brazil;FII;-;-;#N/D
+RECT11;FII Rec Rend;Brazil;FII;-;-;#N/D
+XPCI11;FII Xp Cred;Brazil;FII;-;-;#N/D
+SDIL11;FII Sdi Log;Brazil;FII;-;-;Logística
+KNSC11;FII Kinea Sc;Brazil;FII;-;-;#N/D
+BZLI11;FII Brrealty;Brazil;FII;-;-;Híbrido
+TRXF11;FII Trx Real;Brazil;FII;-;-;#N/D
+ALZR11;FII Alianza;Brazil;FII;-;-;Híbrido
+SARE11;FII Sant Ren;Brazil;FII;-;-;#N/D
+VGIP11;FII Valoraip;Brazil;FII;-;-;#N/D
+RCRB11;FII Riob Rc;Brazil;FII;-;-;Lajes Corporativas
+BARI11;FII Barigui;Brazil;FII;-;-;#N/D
+MFII11;FII Merito I;Brazil;FII;-;-;Híbrido
+XPPR11;FII Xp Prop;Brazil;FII;-;-;#N/D
+BTCR11;FII BTG Cri;Brazil;FII;-;-;TVM
+PATL11;FII Patr Log;Brazil;FII;-;-;#N/D
+XPSF11;FII Xp Selec;Brazil;FII;-;-;#N/D
+KFOF11;FII Kineafof;Brazil;FII;-;-;#N/D
+VGIR11;FII Valrelll;Brazil;FII;-;-;#N/D
+PORD11;FII Polo Cri;Brazil;FII;-;-;TVM
+TORD11;FII Torde Ei;Brazil;FII;-;-;#N/D
+HGPO11;FII Cshgprim;Brazil;FII;-;-;Lajes Corporativas
+BCIA11;FII Bcia;Brazil;FII;-;-;TVM
+BPFF11;FII Absoluto;Brazil;FII;-;-;TVM
+FIIB11;FII Indl BR;Brazil;FII;-;-;Logística
+BBFI11B;FII BB Progr;Brazil;FII;-;-;Não
+TEPP11;FII Tel Prop;Brazil;FII;-;-;#N/D
+CPFF11;FII Cap Reit;Brazil;FII;-;-;#N/D
+RBED11;FII Riob Ed;Brazil;FII;-;-;Educacional
+SADI11;FII Sant Pap;Brazil;FII;-;-;#N/D
+QAGR11;FII Quasar A;Brazil;FII;-;-;#N/D
+RBFF11;FII Riob Ff;Brazil;FII;-;-;TVM
+HGFF11;FII CSHG Fof;Brazil;FII;-;-;#N/D
+PATC11;FII Patria;Brazil;FII;-;-;#N/D
+VTLT11;FII Vot Log;Brazil;FII;-;-;Logística
+URPR11;FII Urca Ren;Brazil;FII;-;-;#N/D
+FLMA11;FII S F Lima;Brazil;FII;-;-;Lajes Corporativas
+PLCR11;FII Plural R;Brazil;FII;-;-;#N/D
+FIGS11;FII Gen Shop;Brazil;FII;-;-;Shoppings
+RNGO11;FII Rionegro;Brazil;FII;-;-;Lajes Corporativas
+OULG11;FII Ourilog;Brazil;FII;-;-;Híbrido
+RVBI11;FII Vbi Reit;Brazil;FII;-;-;#N/D
+HTMX11;FII Hotel Mx;Brazil;FII;-;-;Hotel
+RBRD11;FII Rb II;Brazil;FII;-;-;Híbrido
+XPCM11;FII Xp Macae;Brazil;FII;-;-;Lajes Corporativas
+RFOF11;FII Rb Cfof;Brazil;FII;-;-;#N/D
+SPTW11;FII SP Downt;Brazil;FII;-;-;Outros
+BBVJ11;FII C Jardim;Brazil;FII;-;-;Lajes Corporativas
+CEOC11;FII Ceo Ccp;Brazil;FII;-;-;Lajes Corporativas
+HTMX11;FII Hotel Mx;Brazil;FII;-;-;Hotel
+ALMI11;FII Torre Al;Brazil;FII;-;-;Lajes Corporativas
+FAED11;FII Anh Educ;Brazil;FII;-;-;Educacional
+XPCM11;FII Xp Macae;Brazil;FII;-;-;Lajes Corporativas
+RBRD11;FII Rb II;Brazil;FII;-;-;Híbrido
+SPTW11;FII SP Downt;Brazil;FII;-;-;Outros
+ONEF11;FII The One;Brazil;FII;-;-;Lajes Corporativas
+EDGA11;FII Galeria;Brazil;FII;-;-;Lajes Corporativas
+GRLV11;FII Louveira;Brazil;FII;-;-;Logística
+MBRF11;FII Merc BR;Brazil;FII;-;-;Híbrido
+CTXT11;FII C Textil;Brazil;FII;-;-;Lajes Corporativas
+CARE11;FII Dea Care;Brazil;FII;-;-;Lajes Corporativas
